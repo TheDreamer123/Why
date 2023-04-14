@@ -1,0 +1,37 @@
+{
+  "parent": "why:root",
+  "criteria": {
+    "lave_soup": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "why:lava_soup"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.why.obtain_lava_soup.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "why:lava_soup"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.why.obtain_lava_soup.title"
+    }
+  },
+  "requirements": [
+    [
+      "lave_soup"
+    ]
+  ]
+}

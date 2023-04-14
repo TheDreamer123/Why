@@ -1,0 +1,26 @@
+{
+  "category.why": "Why?",
+  "gamerule.why:lavaExplosionPower": "Lava Explosion Power",
+  "gamerule.why:lavaExplosionPower.description": "The destructive power of the explosion caused by dropping lava on fire.",
+  "gamerule.why:lavaExplosionDestroyEverything": "Lava Explosion Destroy Everything",
+  "gamerule.why:lavaExplosionDestroyEverything.description": "If true, the explosion caused by dropping lava on fire will destroy all blocks (yes, bedrock included).",
+
+
+  "advancements.why.root.title": "Why?",
+  "advancements.why.root.description": "Why?",
+  "advancements.why.consume_lava.title": "WHY???",
+  "advancements.why.consume_lava.description": "Please... Stop...",
+  "advancements.why.obtain_lava_soup.title": "...",
+  "advancements.why.obtain_lava_soup.description": "You belong in an asylum.",
+
+  "block.minecraft.lava.why": "SERIOUSLY, WHY???",
+  "item.why.lava_soup": "Lava Soup",
+  "item.why.lava_soup.why": "Everything burned, what did you expect?",
+  "item.why.charred_bowl": "Charred Bowl",
+  "item.why.charred_bowl.why": "You ruined it...",
+  "death.attack.why:eat_lava": "%1$s had a very toasty snack.",
+  "death.attack.why:eat_lava.player": "%2$s offered %1$s a very toasty snack.",
+  "death.attack.why:lava_on_fire": "%1$s was blown away by extra hot lava.",
+  "death.attack.why:lava_on_fire.player": "%2$s blew %1$s away with extra hot lava.",
+  "death.attack.why:lava_on_fire.player.item": "%2$s blew %1$s away with extra hot lava while using %3$s."
+}

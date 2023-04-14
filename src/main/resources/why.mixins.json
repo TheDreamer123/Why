@@ -1,0 +1,23 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.dreamer.why.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "AbstractBlockMixin",
+    "BlockMixin",
+    "BlocksMixin",
+    "DamageSourcesMixin",
+    "DamageTypesMixin",
+    "ExplosionMixin",
+    "FluidBlockMixin",
+    "ItemEntityMixin",
+    "LivingEntityMixin"
+  ],
+  "client": [
+    "ItemGroupMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

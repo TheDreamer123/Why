@@ -1,0 +1,37 @@
+{
+  "criteria": {
+    "lave": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "why:lava"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "background": "why:textures/gui/advancements/backgrounds/lave.png",
+    "description": {
+      "translate": "advancements.why.root.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "why:lava"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.why.root.title"
+    }
+  },
+  "requirements": [
+    [
+      "lave"
+    ]
+  ]
+}

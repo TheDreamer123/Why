@@ -1,0 +1,36 @@
+{
+  "parent": "why:root",
+  "criteria": {
+    "lave": {
+      "conditions": {
+        "item": {
+          "items": [
+            "why:lava"
+          ]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.why.consume_lava.description"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "why:lava",
+      "nbt": "{Enchantments:[{id:\"\",lvl:1}]}"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.why.consume_lava.title"
+    }
+  },
+  "requirements": [
+    [
+      "lave"
+    ]
+  ]
+}

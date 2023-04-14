@@ -1,0 +1,12 @@
+accessWidener v1 named
+
+
+
+accessible class net/minecraft/item/ItemGroup$EntriesImpl
+
+
+accessible field net/minecraft/block/AbstractBlock settings Lnet/minecraft/block/AbstractBlock$Settings;
+accessible field net/minecraft/block/AbstractBlock$Settings hardness F
+
+accessible field net/minecraft/block/AbstractBlock$AbstractBlockState hardness F
+mutable field net/minecraft/block/AbstractBlock$AbstractBlockState hardness F
