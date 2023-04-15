@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "why",
-  "version": "${version}",
+  "version": "69.420",
 
   "name": "Why?",
   "description": "Why?",
@@ -9,8 +9,9 @@
     "TheDreamer123"
   ],
   "contact": {
-    "homepage": "",
-    "sources": ""
+    "homepage": "https://modrinth.com/mod/why",
+    "sources": "https://github.com/TheDreamer123/Why",
+    "issues": "https://github.com/TheDreamer123/Why/issues"
   },
 
   "license": "MIT",
